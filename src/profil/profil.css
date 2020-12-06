@@ -1,0 +1,39 @@
+.myprofil{
+    display: flex;
+    justify-content: space-around;
+    flex-direction:row-reverse;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.aboutme{
+    
+    border: 5px solid rgba(0, 0, 0, 0.473);
+    border-radius:50px;
+    padding: 5px;
+    padding-top: 45px;
+    text-align: center;
+}
+.image{
+    border-radius:50px;
+}
+.contenu{
+    margin-bottom: 30px;  
+}
+.face{
+    display: block;
+  width: 300px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  animation: App-logo-spin infinite 20s linear;
+
+}
+.mybouton{
+    margin-left: 600px; 
+    margin-top: 100px;
+    margin-bottom: 10px;
+    width:100px;
+    height:40px;
+   
+}
